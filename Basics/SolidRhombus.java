@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class SolidRhombus {
     public static void solidRhombus(int n) {
