@@ -24,6 +24,6 @@ class Rook implements ChessPlayer {
 
 class Bishop implements ChessPlayer {
     public void moves() {
-        System.out.println("cross");
+        System.out.println("diagonal");
     }
 }
