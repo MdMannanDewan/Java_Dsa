@@ -16,6 +16,9 @@ public class ComplexOperation {
         int real2 = sc.nextInt();
         System.out.println("Enter the imaginary part of second number: ");
         int imaginary2 = sc.nextInt();
+
+        // close scanner
+        sc.close();
         // create second complex number
         Complex complexNumber2 = new Complex(real2, imaginary2);
 
