@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class NthFibonacci {
     public static int getNthFibo(int n) {
@@ -55,7 +54,7 @@ public class NthFibonacci {
 
     public static void main(String[] args) {
         // System.out.println(getNthFibo(9));
-        int arr[] = { 1, 2, 3, 4, 5, 8, 3, 7 };
+        // int arr[] = { 1, 2, 3, 4, 5, 8, 3, 7 };
         // System.out.println(isSorted(arr, 0));
         // System.out.println(firstOccurance(arr, 3, 0));
         // System.out.println(lastOccurance(arr, 3, 0));

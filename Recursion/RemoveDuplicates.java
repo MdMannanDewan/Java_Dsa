@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class RemoveDuplicates {
     public static void removeDuplicates(String str, int idx, StringBuilder newStr, boolean map[]) {
